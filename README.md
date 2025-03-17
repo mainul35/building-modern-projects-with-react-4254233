@@ -32,4 +32,16 @@ Under the `scripts` section of package.json file, add `build` script to use webp
 
 Change the usage of index.js file to `/dist/bundle.js` file.
 
+### Create react app with npx
 
+`npx create-react-app app-name`
+
+### Create react app with vite
+
+First, install vite latest in the system with npm
+
+`npm create vite@latest`
+
+Then build the project with `npm install`
+
+Up next, run the project in dev with `npm run dev`
